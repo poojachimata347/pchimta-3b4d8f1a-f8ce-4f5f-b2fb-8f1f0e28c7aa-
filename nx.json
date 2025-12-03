@@ -1,0 +1,6 @@
+{
+  "npmScope": "taskmgr",
+  "affected": {
+    "defaultBase": "main"
+  }
+}
